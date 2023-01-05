@@ -1,1 +1,1 @@
-# stability_aware_exploration_delivery_robots
+# Stability-aware Exploration of Design Space of Autonomous Robots for Goods Delivery
